@@ -4,5 +4,9 @@ It's become horsemen of annoyance
 in next update 🗿
 
 Credit:
-XDA and it's member (Provide LGV)
-NSTA (provide Repository)
+XDA and great modders,NSTAdventure
+
+Note:
+1. I don't have any right to respective app
+2. Official developer have right to takedown
+Our repository especially with copyright reason
