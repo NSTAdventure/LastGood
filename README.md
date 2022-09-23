@@ -10,3 +10,5 @@ Note:
 1. I don't have any right to respective app
 2. Official developer have right to takedown
 Our repository especially with copyright reason
+3. I will never release source code 
+Unless it's open source / developer allow it
